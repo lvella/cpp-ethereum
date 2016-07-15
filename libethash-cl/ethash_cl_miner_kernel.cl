@@ -1,3 +1,5 @@
+#pragma OPENCL EXTENSION cl_clang_storage_class_specifiers : enable
+
 #define OPENCL_PLATFORM_UNKNOWN 0
 #define OPENCL_PLATFORM_NVIDIA  1
 #define OPENCL_PLATFORM_AMD			2
